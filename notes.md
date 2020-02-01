@@ -11,3 +11,8 @@
   },
 
 npm run develop
+
+
+3. npm install dotenv to hide sensitive data
+
+4. npm install body-parser to convert the req.body data to string for the DB
